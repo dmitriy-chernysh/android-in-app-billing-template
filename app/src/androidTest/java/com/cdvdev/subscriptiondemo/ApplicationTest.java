@@ -1,4 +1,4 @@
-package com.cdvdev.subscribtiondemo;
+package com.cdvdev.subscriptiondemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

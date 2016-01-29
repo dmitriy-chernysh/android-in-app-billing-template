@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.cdvdev.subscribtiondemo"
+        applicationId "com.cdvdev.subscriptiondemo"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1

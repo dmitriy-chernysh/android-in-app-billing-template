@@ -1,4 +1,4 @@
-package com.cdvdev.subscribtiondemo;
+package com.cdvdev.subscriptiondemo;
 
 import org.junit.Test;
 
