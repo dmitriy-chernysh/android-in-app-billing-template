@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Subscription Demo</string>
     <string name="button_subscribe">Subscription</string>
+
+    <string name="subscription_period_prompt">Select your subscription period</string>
+    <string name="subscription_resignup_prompt">To reactivate your subscription, select your subscription period</string>
+    <string name="subscription_update_prompt">To change your subscription, select your new subscription period</string>
+    <string name="subscription_item_monthly">Monthly subscription</string>
+    <string name="subscription_item_six_monthly">Six-Monthly subscription</string>
+    <string name="subscription_item_yearly">Yearly subscription</string>
+    <string name="subscription_prompt_continue">Continue</string>
+    <string name="subscription_prompt_cancel">Cancel</string>
+
+    <string name="base64_app_license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArL+Jzuot93H7oVPpgrAFlnzo8j5RdCrgmmNWRhxVZ7xg/yRuxlDAlzYK2ur9/M+fxGmVEPRsXOvy/hfsoXNqECdGPJMlQ/MdP2ewhlahj2UwdOoedQ0WabGHTLDj8espYe1M+gqfx1Uji7z7xWaZvIlCmSwZ6taykdW+vnd1Np6sBrvWhwpKG1G9Wk5S00hXbUE3JJZOwh+y6yUAkMwKjR24SN6poz2uFTMQSBuv2diNSStrg7f0V51xG1DUV4MkinTNpG9Os3mEEPsDAF1nvLkb9tYXw5u+OA8nV5JiPh2aPINa/wSB9kaDzx0rw33qAQvMGX5Jg2ST6EzqDzLbDQIDAQAB</string>
 </resources>
