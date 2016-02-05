@@ -95,6 +95,7 @@
        ```
    
 * Process the response code of purchase result in onActivityResult: 
+
        
     ```java
        @Override
